@@ -39,9 +39,9 @@
 
   - Week 7 (Backend):
     - Backend Development: Finalize and test APIs for:
-      ~ Report submission.
-      ~ Retrieving reports for comparison.
-      ~ Accessing entity data from the database.
+      - Report submission.
+      - Retrieving reports for comparison.
+      - Accessing entity data from the database.
     - Initial Comparative Tools: Begin development of basic comparison tools for matching user reports with database entries.
 
   - Week 9 (Comparison Tools):
